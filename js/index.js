@@ -1,9 +1,5 @@
 "use strict";
 
-// de leaflet library is reeds geimporteerd, en beschikbaar als "L"
-// dit via de script en css tag in de index.html, en de "map" div die werd toegevoegd.
-
-
 const app = {
     map: null, // gebruik dit om de map gemakkelijk aan te spreken doorheen de applicatie
     init() {
